@@ -1,0 +1,14 @@
+body{
+	font-family: helvitica, sans-serif;
+	background-color: grey;
+}
+
+
+
+
+
+.container{
+	margin: 0 auto;
+	max-width: 960px;
+}
+/* developer styles go here */
